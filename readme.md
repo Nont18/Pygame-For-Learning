@@ -4,7 +4,7 @@ Pygame is a cross-platform library of Python modules designed for writing video 
 
 Pygame uses the Simple DirectMedia Layer (SDL) library, with the intention of allowing real-time computer game development without the low-level mechanics of the C programming language and its derivatives. This is based on the assumption that the most expensive functions inside games can be abstracted from the game logic, making it possible to use a high-level programming language, such as Python, to structure the game. </br> 
 
-In this repository has 2 games for learning. The game applied from Flappy-bird game that player must control or hold the bird to avoid the barrier. The following games are similar to it, but the game changes the character such as helicopter, Goku, Rocket. </br>
+In this repository has 2 games for learning. The game applied from Flappy-bird game that player must control or hold the bird to avoid the barrier. The following games are similar to it, but the game changes the character such as helicopter, Goku, Rocket, etc. </br>
 1. Helicopter Game : <code> helicopter.py </code> </br>
 2. Shooting Alien  : <code> ShootingAlien.py </code> </br>
 
